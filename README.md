@@ -1,4 +1,4 @@
-# Slot Booking Application
+# Slot Booking System
 
 This is a slot booking system that allows users to book time slots with mentors using Survey JS.
 
